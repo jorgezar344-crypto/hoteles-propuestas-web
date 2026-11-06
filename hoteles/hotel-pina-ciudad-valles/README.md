@@ -1,6 +1,6 @@
 # Hotel Piña · Ciudad Valles
 
-Primera propuesta visual para revisión. **Concepto no oficial; no enviado ni aprobado por el hotel.**
+**NO ENVIAR · no elegible: el hotel ya tiene web propia en [hotel-pina.com](https://hotel-pina.com/).** Se conserva el diseño únicamente como referencia visual. **Concepto no oficial; no enviado ni aprobado por el hotel.**
 
 - [Ver landing completa](imagenes/landing-concepto-v1.png)
 - [Leer la propuesta y su alcance](propuesta.md)
@@ -10,4 +10,4 @@ Primera propuesta visual para revisión. **Concepto no oficial; no enviado ni ap
 
 Las imágenes son ilustrativas y generadas con IA; no representan instalaciones reales. No hay tarifas, testimonios ni reservas activas.
 
-**Pendiente antes de cualquier envío:** Muse debe comprobar el historial de contacto, confirmar destinatario y evitar duplicados.
+**Fuera de la selección de hoteles sin web propia. No enviar esta propuesta.**
