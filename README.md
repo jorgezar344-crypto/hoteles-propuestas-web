@@ -14,8 +14,6 @@ La carpeta `plantillas/` contiene formatos vacíos. No representa hoteles reales
 
 ## Antes de enviar
 
-**Criterio de selección: únicamente hoteles sin página web propia.** Los hoteles con sitio propio no son elegibles y sus propuestas no deben enviarse.
-
 Muse debe comprobar el historial de contacto y los envíos anteriores para evitar duplicados, confirmar el destinatario y revisar que los materiales correspondan al hotel. Si el historial no está disponible, debe quedar pendiente de revisión. El historial de comunicaciones y cualquier información privada se conservan fuera de este repositorio público.
 
 La presencia de un archivo no demuestra que haya sido enviado. Este repositorio no configura envíos automáticos ni conexiones con Muse.
@@ -26,4 +24,4 @@ Publicar únicamente información comercial que ya sea pública y propuestas aut
 
 ## Propuestas disponibles
 
-- [Hotel Piña · Ciudad Valles](hoteles/hotel-pina-ciudad-valles/README.md): **NO ENVIAR · no elegible: ya tiene web propia ([hotel-pina.com](https://hotel-pina.com/)).** Diseño conservado únicamente como referencia visual.
+- [Hotel Piña · Ciudad Valles](hoteles/hotel-pina-ciudad-valles/README.md): landing conceptual, ficha comercial y fuentes públicas. Pendiente de revisión antes de cualquier envío.
