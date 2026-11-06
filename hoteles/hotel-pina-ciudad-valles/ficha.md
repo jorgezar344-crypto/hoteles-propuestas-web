@@ -2,8 +2,6 @@
 
 Fecha de consulta: 6 de noviembre de 2026.
 
-**NO ENVIAR · no elegible para la selección de hoteles sin web propia.** El hotel tiene sitio oficial en [hotel-pina.com](https://hotel-pina.com/). La ficha y el diseño se conservan únicamente como referencia.
-
 ## Datos publicados por el hotel
 
 - **Nombre comercial:** Hotel Piña.
@@ -28,7 +26,7 @@ La consulta verifica qué publican estas páginas, no la vigencia operativa de t
 - La sección de contacto publica **info@hotel-pina.com**. Un texto repetido al pie del sitio muestra **info@hote-pina.com**, sin la «l» de «hotel». Se prioriza la página de contacto; confirmar el destinatario antes de escribir.
 - No se incluyen tarifas, promociones, políticas, disponibilidad ni condiciones de reserva.
 - No se incorporan testimonios, puntuaciones o instalaciones a la propuesta.
-- **Historial de contacto: desconocido. No enviar la propuesta:** el hotel no es elegible por tener web propia.
+- **Historial de contacto: desconocido.** Muse debe revisar los contactos y envíos anteriores fuera de este repositorio, confirmar el destinatario y evitar duplicados.
 - Esta ficha no acredita que el hotel haya sido contactado, que la propuesta haya sido enviada o que exista una relación comercial.
 
 Solo se documenta información comercial pública. No contiene información de huéspedes ni datos privados.
