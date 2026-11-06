@@ -25,3 +25,7 @@ Publicar únicamente información comercial que ya sea pública y propuestas aut
 ## Propuestas disponibles
 
 - [Hotel Piña · Ciudad Valles](hoteles/hotel-pina-ciudad-valles/README.md): landing conceptual, ficha comercial y fuentes públicas. Pendiente de revisión antes de cualquier envío.
+- [Casa Musgo · Xilitla](hoteles/casa-musgo-xilitla/README.md): v2 vigente, aprobada por el solicitante para publicación; propuesta independiente no aprobada por el hotel. Usar v2 y revisar historial, destinatario y derechos antes de enviar.
+- [Cabañas Lomas del Roble · Pinal de Amoles](hoteles/cabanas-lomas-del-roble-pinal-de-amoles/README.md): concepto con fotografías reales, ficha comercial y fuentes. Pendiente de revisión de historial, destinatario y derechos antes de enviar.
+- [Cabañas Los Jardines · Lagunas de Montebello](hoteles/cabanas-los-jardines-montebello/README.md): concepto con fotografías auténticas, ficha comercial y fuentes visuales. Contacto y permisos de uso definitivo pendientes de validar; revisar el historial antes de enviar.
+- [Cabañas Tío Nico · Maconí, Querétaro](hoteles/cabanas-tio-nico-maconi/README.md): concepto con fotografías auténticas y logotipo, ficha comercial y fuentes. Pendiente de revisión de historial, destinatario y derechos antes de enviar.
