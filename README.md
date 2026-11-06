@@ -22,4 +22,6 @@ La presencia de un archivo no demuestra que haya sido enviado. Este repositorio 
 
 Publicar únicamente información comercial que ya sea pública y propuestas autorizadas para compartir. No incluir contraseñas, claves de acceso, datos privados, conversaciones, documentos internos ni información de huéspedes. Registrar las fuentes y usar únicamente imágenes propias o con permiso para publicarlas. No inventar datos, contactos, testimonios, tarifas ni características de los hoteles.
 
-Estado inicial: estructura preparada, sin hoteles ni propuestas cargados.
+## Propuestas disponibles
+
+- [Hotel Piña · Ciudad Valles](hoteles/hotel-pina-ciudad-valles/README.md): landing conceptual, ficha comercial y fuentes públicas. Pendiente de revisión antes de cualquier envío.
