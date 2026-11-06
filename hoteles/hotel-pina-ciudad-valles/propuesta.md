@@ -1,7 +1,5 @@
 # Hotel Piña · propuesta visual web v1
 
-**NO ENVIAR · no elegible: el hotel ya tiene web propia en [hotel-pina.com](https://hotel-pina.com/).** Diseño conservado únicamente como referencia visual.
-
 **Concepto independiente, no oficial y no aprobado por el hotel.**  
 Preparado el 6 de noviembre de 2026 para revisión. No es un sitio publicado ni una reserva funcional.
 
@@ -35,8 +33,8 @@ Una landing editorial en marfil y verde profundo, con tipografía limpia, imáge
 - Los botones son elementos visuales de muestra, no controles activos. No se han enviado formularios, mensajes ni reservas.
 - Los datos comerciales proceden de la [ficha pública](ficha.md). No se usan testimonios ni reseñas.
 
-## Estado de la propuesta
+## Antes de presentar o implementar
 
-**Archivada como referencia visual. No enviar ni continuar esta propuesta comercial:** Hotel Piña queda fuera de la selección de hoteles sin web propia.
+Confirmar datos de contacto, fotografías autorizadas, identidad visual, detalles de habitaciones, condiciones y objetivo del contacto. Después se puede definir una versión adaptable a móvil e implementar el sitio, sujeto a autorización.
 
-El historial de contacto sigue siendo desconocido. La publicación de esta carpeta no demuestra ningún envío ni configura automatizaciones.
+**Muse debe comprobar el historial de contacto fuera de este repositorio antes de enviar.** Actualmente es desconocido. También debe confirmar destinatario y revisar la propuesta para evitar duplicados. La publicación de esta carpeta no demuestra ningún envío ni configura automatizaciones.
