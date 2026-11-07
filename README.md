@@ -29,3 +29,20 @@ Publicar únicamente información comercial que ya sea pública y propuestas aut
 - [Cabañas Lomas del Roble · Pinal de Amoles](hoteles/cabanas-lomas-del-roble-pinal-de-amoles/README.md): concepto con fotografías reales, ficha comercial y fuentes. Pendiente de revisión de historial, destinatario y derechos antes de enviar.
 - [Cabañas Los Jardines · Lagunas de Montebello](hoteles/cabanas-los-jardines-montebello/README.md): concepto con fotografías auténticas, ficha comercial y fuentes visuales. Contacto y permisos de uso definitivo pendientes de validar; revisar el historial antes de enviar.
 - [Cabañas Tío Nico · Maconí, Querétaro](hoteles/cabanas-tio-nico-maconi/README.md): concepto con fotografías auténticas y logotipo, ficha comercial y fuentes. Pendiente de revisión de historial, destinatario y derechos antes de enviar.
+
+## Tanda de Querétaro · 7 de noviembre de 2026
+
+Diez muestras gráficas con ficha comercial, fuentes y notas de revisión. Son conceptos independientes, no sitios oficiales ni propuestas aprobadas por los alojamientos. La publicación no implica que se haya contactado a los hoteles.
+
+- [Villa Torrentera](hoteles/villa-torrentera-pinal-de-amoles/README.md): muestra PNG y ficha. WhatsApp no verificado.
+- [Cabañas Cocay](hoteles/cabanas-cocay-bucareli/README.md): muestra PNG y ficha. WhatsApp publicado en fuentes comerciales; sin prueba de entrega.
+- [Hotel Real Aurora](hoteles/hotel-real-aurora-jalpan/README.md): muestra PNG y ficha. WhatsApp publicado en fuentes comerciales; sin prueba de entrega.
+- [Casa de las Aves](hoteles/casa-de-las-aves-jalpan/README.md): muestra PNG y ficha. WhatsApp publicado en fuentes comerciales; sin prueba de entrega.
+- [Hotel Tequila](hoteles/hotel-tequila-jalpan/README.md): muestra PNG y ficha. WhatsApp no verificado.
+- [Villas del Sol](hoteles/villas-del-sol-jalpan/README.md): muestra PNG y ficha. WhatsApp publicado en fuentes comerciales; sin prueba de entrega.
+- [Campamento Cruz de Palo](hoteles/campamento-cruz-de-palo-pinal-de-amoles/README.md): muestra PNG y ficha. WhatsApp publicado en fuentes comerciales; sin prueba de entrega.
+- [Las Coas Hospedaje](hoteles/las-coas-pinal-de-amoles/README.md): muestra PNG y ficha. WhatsApp publicado en fuentes comerciales; sin prueba de entrega.
+- [Hotel Santa Lucía](hoteles/hotel-santa-lucia-jalpan/README.md): muestra PNG y ficha. WhatsApp no verificado.
+- [Posada Don Félix](hoteles/posada-don-felix-pinal-de-amoles/README.md): muestra PNG y ficha. WhatsApp publicado en fuentes comerciales; sin prueba de entrega.
+
+Antes de cualquier envío, revisar el historial de contacto, confirmar el destinatario y los permisos de uso de imágenes y marcas. Los teléfonos de Villa Torrentera, Hotel Tequila y Hotel Santa Lucía no deben tratarse como WhatsApp verificado.
